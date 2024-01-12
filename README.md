@@ -1,2 +1,4 @@
 # Couse-Wallah
-This is generally course selling website - Course Wallah. This is created using HTML, CSS, JavaScript, Bootstrap.  It is on going project. TILL NOW only front-end part is done. Working on backend.
+Prepare a basic front-end for the course selling website: Course Wallah. This is created using HTML, CSS, JS, BootStrap.
+
+URL: [https://coursewallah.netlify.app/](url)
